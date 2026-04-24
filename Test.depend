@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777062657 source:c:\users\admin\documents\topicos 2026\test\funciones.c
+
+1743445502 source:c:\users\admin\documents\topicos 2026\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
